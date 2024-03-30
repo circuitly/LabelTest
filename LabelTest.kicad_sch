@@ -154,7 +154,7 @@
   )
 
   (text "LEFT"
-    (at 171.45 121.285 0)
+    (at 186.055 119.38 0)
     (effects (font (size 2 2)) (justify right bottom))
     (uuid 7b99bcde-041b-4c38-902f-9023a34016fc)
   )
